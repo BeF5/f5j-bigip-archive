@@ -22,11 +22,21 @@ F5 BIG-IP アーカイブライブラリ
 
 :download:`資料をダウンロードできます <images/BIG-IP_TB_Persistence_Mirroring.pdf>`
 
-- F5 BIG-IP ルートドメイン機能
+- F5 BIG-IP GTM (Global Traffic Manager)
 
-:download:`資料をダウンロードできます <images/BIG-IP_TB_RoutingDomain.pdf>`
+:download:`資料をダウンロードできます <images/GTMv10_Overview_Tech.pdf>`
 
+- F5 Geo Location機能
 
+:download:`資料をダウンロードできます <images/GTM_TB_GeoLocation.pdf>`
+
+- F5 DNSSEC機能
+
+:download:`資料をダウンロードできます <images/GTM_TB_DNSSEC.pdf>`
+
+- F5 IPv4アドレス枯渇対策、IPv6移行ソリューションのご紹介
+
+:download:`資料をダウンロードできます <images/F5_IPv6_solution.pdf>`
 
 
 .. toctree::
