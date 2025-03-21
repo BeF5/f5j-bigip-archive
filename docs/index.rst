@@ -38,6 +38,10 @@ F5 BIG-IP アーカイブライブラリ
 
 :download:`資料をダウンロードできます <images/F5_IPv6_solution.pdf>`
 
+- F5 ルードドメイン機能
+
+:download:`資料をダウンロードできます <images/BIG-IP_TB_RoutingDomain.pdf>`
+
 
 .. toctree::
    :titlesonly:
